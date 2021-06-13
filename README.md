@@ -1,6 +1,6 @@
-# Projeto JavaScript
+# Projeto JavaScript :woman_technologist:
 
-## Carrinho de Compras
+## :shopping_cart: Carrinho de Compras 
 
 Precisamos criar uma solução de um carrinho de compras.
 
@@ -23,6 +23,6 @@ Precisamos criar uma solução de um carrinho de compras.
   - o valor total em Reais
   - a data da compra
 
-## Projeto finalizado
+## Projeto finalizado :white_check_mark:
 
-![alt text]
+![alt text](https://github.com/helloLari/Projeto_CarrinhoDeCompras/blob/main/img/CARRINHO_COMPRAS.gif)
